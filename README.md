@@ -1,5 +1,10 @@
 # :fist: :hand: :v: Rock Paper Scissors Command Line Game
 
+## :computer: Tech Used
+
+- Programming Languages: JavaScript
+- Version Control: Git
+
 ## :book: Overview
 
 The Rock Paper Scissors Command Line Game is a simple script written in Node.js that allows users to play the classic game of rock, paper, scissors right in the command line interface. The game is built using vanilla JavaScript, providing an entertaining experience without any external dependencies.
