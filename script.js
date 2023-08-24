@@ -10,6 +10,8 @@ const rules = {
   scissors: { scissors: "draw", paper: "win", rock: "lose" },
 };
 
+const trie = [0, 1, 2;]
+
 // a function to generate computer's choice (random)
 function getComputerChoice() {
   randomNum = Math.floor(Math.random() * 3);
